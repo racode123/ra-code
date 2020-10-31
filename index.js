@@ -1,7 +1,7 @@
 /**
-  * created by ibnusyawall
-  * name : spam-wa
-  * wa   : 082299265151
+  * created by RA Code
+  * name : Spam-WA
+  * wa   : 082334286408
 **/
 
 const request = require('needle')
